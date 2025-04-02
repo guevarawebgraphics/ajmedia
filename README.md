@@ -3,6 +3,8 @@
 ## 📦 Project Overview
 
 This project is an optimized version of the Oricle Hearing product landing page. The goal was to improve performance, maintain functionality, and streamline code for better maintainability and SEO.
+![image](https://github.com/user-attachments/assets/e3bb4dd8-6a05-42f9-acca-1a6aa43f994a)
+
 
 ---
 
@@ -58,6 +60,8 @@ This project is an optimized version of the Oricle Hearing product landing page.
 
 ---
 
+
+
 ## 🚀 Result
 
 The optimized landing page now:
@@ -68,6 +72,7 @@ The optimized landing page now:
 - Offers a better user experience with cleaner, structured HTML
 
 ---
+![image](https://github.com/user-attachments/assets/9f95968a-6714-4b02-b359-7a6d5b9d1cb5)
 
 ## 📅 Last Updated
 
